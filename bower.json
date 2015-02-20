@@ -1,0 +1,6 @@
+{
+  "name": "fixed-data-table",
+  "version": "0.1.0",
+  "main": "./dist/fixed-data-table.js"
+}
+
